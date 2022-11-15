@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [app.netlify.com](https://app.netlify.com/teams/jerryvee)
 - GitHub [@JerryVee](https://{github.com/JerryVee})
 - LinkedIn [JerryVillagrana](https://www.linkedin.com/in/gerardovillagrana/)
