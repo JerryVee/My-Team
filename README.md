@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{My Team,}</h1>
+<h1 align="center">{My Team.}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -65,10 +65,11 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-
+- [CodeCademy](https://www.codecademy.com/catalog/language/html-css)
+- [#100Devs](https://www.twitch.tv/learnwithleon)
 
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@JerryVee](https://{github.com/JerryVee})
+- LinkedIn [JerryVillagrana](https://www.linkedin.com/in/gerardovillagrana/)
